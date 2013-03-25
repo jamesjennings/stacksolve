@@ -3,6 +3,8 @@ stacksolve
 
 Is there anything that can't be solved with StackOverflow?
 
+This code takes in an arbitrary input and a description of the desired transformation or calculation, then searches StackOverflow for posts with code attached matching your criteria, and finally runs the found code until an "answer" is found.
+
 Inspired by (and started as a direct port of) [http://gkoberger.github.com/stacksort/](http://gkoberger.github.com/stacksort/) (and [http://xkcd.com/1185/](http://xkcd.com/1185/) by extension).
 
 Usage:
