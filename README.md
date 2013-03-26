@@ -9,7 +9,7 @@ Inspired by (and started as a direct port of) [http://gkoberger.github.com/stack
 
 Usage:
 ----------
-./stacksolve "inputData" "desired transform/calculation" "[optional Stack Apps key](http://stackapps.com/)"
+./stacksolve.rb "inputData" "desired transform/calculation" "[optional Stack Apps key](http://stackapps.com/)"
 
 Some fun examples:
 ----------
